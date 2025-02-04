@@ -74,12 +74,15 @@ main img{
   background-color: red;
   color: white;
   padding: 5px 10px;
+  top: 450px;
 }
 
 .eco{
   background-color: green;
   color: white;
   padding: 5px 10px;
+  top: 450px;
+  left: 60px;
 }
 
 

@@ -11,6 +11,14 @@
     padding-right: 5px;
   }
 
+  header a{
+    font-size: large;
+  }
+
+  footer a{
+    font-size: small;
+  }
+
   .flex{
     display: flex;
     width: 80%;

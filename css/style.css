@@ -45,7 +45,17 @@ header a{
 }
 
 /* main */
+main{
+  margin: 40px 0;
+}
 
+.cuore{
+  height: 20px;
+  width: 20px;
+  background-color: white;
+  text-align: center;
+  position: absolute;
+}
 
 
 

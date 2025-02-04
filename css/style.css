@@ -85,6 +85,20 @@ main img{
   left: 60px;
 }
 
+h2{
+  font-size: large;
+}
+
+.scontato{
+  font-size: small;
+  font-weight: bolder;
+  color: red;
+}
+.barrato{
+  font-size: small;
+  font-weight: bold;
+  text-decoration: line-through;
+}
 
 
 /* footer */

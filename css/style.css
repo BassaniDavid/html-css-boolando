@@ -25,6 +25,11 @@
     color: white;
   }
 
+  .sfumatura{
+    height: 3px;
+    background-image: linear-gradient(rgb(154, 154, 154), rgba(255, 255, 255, 0)) ;
+  }
+
   img{
     width: 10%;
   }
